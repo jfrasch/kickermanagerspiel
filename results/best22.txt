@@ -1,0 +1,43 @@
+==========================================================
+|                                                        |
+|  Ergebnis der Optimierung fuer die 22 besten Spieler:  |
+|                                                        |
+==========================================================
+
+Punkte in der Vorsaison: 1742
+
+Gewichtete Punkte in der Vorsaison: 1766
+
+Torhueter:
+==========
+Kaufe Sommer_Gladbach fuer 4.3 Mio EUR ( 216 Punkte in der Vorsaison; gewichtet 216 Punkte)
+Kaufe Gulacsi_Leipzig fuer 4.3 Mio EUR ( 220 Punkte in der Vorsaison; gewichtet 220 Punkte)
+Kaufe Rensing_Duesseldorf fuer 1.0 Mio EUR ( 104 Punkte in der Vorsaison; gewichtet 103 Punkte)
+
+Verteidiger:
+============
+Kaufe Kimmich_Bayern fuer 4.3 Mio EUR ( 156 Punkte in der Vorsaison; gewichtet 172 Punkte)
+Kaufe Schulz_Dortmund fuer 3.8 Mio EUR ( 144 Punkte in der Vorsaison; gewichtet 158 Punkte)
+Kaufe Roussillon_Wolfsburg fuer 3.5 Mio EUR ( 148 Punkte in der Vorsaison; gewichtet 148 Punkte)
+Kaufe Klostermann_Leipzig fuer 3.4 Mio EUR ( 127 Punkte in der Vorsaison; gewichtet 127 Punkte)
+Kaufe Gebre_Selassie_Bremen fuer 2.3 Mio EUR ( 84 Punkte in der Vorsaison; gewichtet 84 Punkte)
+Kaufe Gulde_Freiburg fuer 1.8 Mio EUR ( 70 Punkte in der Vorsaison; gewichtet 77 Punkte)
+
+Mittelfeldspieler:
+==================
+Kaufe Albrecht_Hertha fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Arcones_Union fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Arnold_Wolfsburg fuer 3.0 Mio EUR ( 105 Punkte in der Vorsaison; gewichtet 105 Punkte)
+Kaufe Azzinnari_Paderborn fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Buehler_Duesseldorf fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Cavar_Frankfurt fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Kostic_Frankfurt fuer 3.6 Mio EUR ( 137 Punkte in der Vorsaison; gewichtet 137 Punkte)
+Kaufe Stoeger_Duesseldorf fuer 2.6 Mio EUR ( 118 Punkte in der Vorsaison; gewichtet 106 Punkte)
+
+Stuermer:
+=========
+Kaufe Raman_Schalke fuer 2.8 Mio EUR ( 113 Punkte in der Vorsaison; gewichtet 113 Punkte)
+Kaufe Kiprit_Hertha fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Malone_Augsburg fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Villalba_Gladbach fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)
+Kaufe Cheon_Augsburg fuer 0.2 Mio EUR ( 0 Punkte in der Vorsaison; gewichtet 0 Punkte)

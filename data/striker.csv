@@ -1,0 +1,95 @@
+Spieler	Verein	Position	Mio.Eu	void1	void2	PunktVorjahr	NoteVorjahr	void3	Gewicht  
+Lewandowski	Bayern	STU	8,5			218	3,0	merken;		
+Werner	Leipzig	STU	7,0			171	3,2	merken;		
+Volland	Leverkusen	STU	6,5			172	3,2	merken;		
+Kramaric	Hoffenheim	STU	6,5			166	3,1	merken;		
+Weghorst	Wolfsburg	STU	6,0			176	3,2	merken;		
+Poulsen	Leipzig	STU	5,8			157	3,2	merken;		
+Belfodil	Hoffenheim	STU	5,0			169	2,9	merken;		
+Götze	Dortmund	STU	4,8			124	3,0	merken;		
+Paco Alcacer	Dortmund	STU	4,8			122	3,1	merken;		
+Bellarabi	Leverkusen	STU	4,2			94	2,8	merken;		
+Rashica	Bremen	STU	3,7			113	3,1	merken;		
+Mateta	Mainz	STU	3,7			114	3,5	merken;		
+Plea	Gladbach	STU	3,6			110	3,5	merken;		
+Alario	Leverkusen	STU	3,6			72	3,5	merken;		
+Rebic	Frankfurt	STU	3,5			109	3,2	merken;		
+Bailey	Leverkusen	STU	3,4			64	3,6	merken;		
+Finnbogason	Augsburg	STU	3,2			66	3,6	merken;		
+Waldschmidt	Freiburg	STU	3,2			95	3,4	merken;		
+Lukebakio	Hertha	STU	3,2			78	3,6	merken;		
+Diaby	Leverkusen	STU	3,2			79		merken;	1	
+Petersen	Freiburg	STU	3,0			93	3,4	merken;		
+Modeste	Köln	STU	3,0			60		merken;	1	
+Füllkrug	Bremen	STU	3,0			21	3,8	merken;		
+Bebou	Hoffenheim	STU	3,0			66	3,0	merken;		
+Ibisevic	Hertha	STU	2,8			83	3,5	merken;		
+Raffael	Gladbach	STU	2,8			29	3,4	merken;		
+Uth	Schalke	STU	2,8			2	4,1	merken;		
+Raman	Schalke	STU	2,8			113	3,4	merken;		
+Embolo	Gladbach	STU	2,8			-2	4,3	merken;		
+Kownacki	Düsseldorf	STU	2,8			27	3,6	merken;		
+Skov	Hoffenheim	STU	2,8			42		merken;	1	
+Lookman	Leipzig	STU	2,7			40		merken;	1	
+Cordoba	Köln	STU	2,6			39		merken;	1	
+Richter	Augsburg	STU	2,6			38	3,8	merken;		
+Augustin	Leipzig	STU	2,5			26	3,8	merken;		
+Onisiwo	Mainz	STU	2,5			90	3,2	merken;		
+Ginczek	Wolfsburg	STU	2,4			68	3,4	merken;		
+Burgstaller	Schalke	STU	2,4			28	3,8	merken;		
+Selke	Hertha	STU	2,4			55	3,6	merken;		
+Paciencia	Frankfurt	STU	2,4			36	3,1	merken;		
+Szalai	Hoffenheim	STU	2,3			75	3,5	merken;		
+Terodde	Köln	STU	2,3			52		merken;	1	
+Osako	Bremen	STU	2,2			51	3,5	merken;		
+Hennings	Düsseldorf	STU	2,0			63	3,7	merken;	1,01	
+Herrmann	Gladbach	STU	2,0			35	3,7	merken;		
+Traoré	Gladbach	STU	2,0			31	3,4	merken;		
+Ujah	Union	STU	2,0			39	3,6	merken;		
+Quaison	Mainz	STU	2,0			54	3,7	merken;		
+Adamyan	Hoffenheim	STU	2,0			38		merken;	1	
+Thuram	Gladbach	STU	2,0			38		merken;	1	
+Paulinho	Leverkusen	STU	2,0			19	2,5	merken;		
+Matheus Cunha	Leipzig	STU	2,0			27	3,9	merken;		
+Pizarro	Bremen	STU	1,8			52	3,3	merken;		
+Bartels	Bremen	STU	1,8			2		merken;		
+Niederlechner	Augsburg	STU	1,8			14	4,2	merken;		
+Karaman	Düsseldorf	STU	1,8			45	3,6	merken;		
+Michel	Paderborn	STU	1,8					merken;		
+Andersson	Union	STU	1,8					merken;		
+Eggestein	Bremen	STU	1,8			41	3,6	merken;		
+Awoniyi	Mainz	STU	1,8					merken;		
+Joveljic	Frankfurt	STU	1,8					merken;		
+Harnik	Bremen	STU	1,6			33	3,8	merken;		
+Polter	Union	STU	1,6					merken;		
+Kutucu	Schalke	STU	1,6			15	3,9	merken;		
+Ji	Mainz	STU	1,5			24	4,0	merken;		
+Höler	Freiburg	STU	1,5			31	3,8	merken;		
+Bülter	Union	STU	1,5					merken;		
+Gueye	Paderborn	STU	1,5			0		merken;		
+Arp	Bayern	STU	1,5					merken;		
+Abdullahi	Union	STU	1,5					merken;		
+Nmecha	Wolfsburg	STU	1,5					merken;		
+Becker	Union	STU	1,4					merken;		
+Cordova	Augsburg	STU	1,4			31	3,7	merken;		
+Sargent	Bremen	STU	1,4			9	4,5	merken;		
+Zolinski	Paderborn	STU	1,3					merken;		
+Kleindienst	Freiburg	STU	1,2			2	4,0	merken;		
+Köpke	Hertha	STU	1,2			8		merken;		
+Burkardt	Mainz	STU	1,2			-2	4,1	merken;		
+Ingvartsen	Union	STU	1,2					merken;		
+Schieber	Augsburg	STU	1,0			1	4,4	merken;		
+Mamba	Paderborn	STU	1,0					merken;		
+Pohjanpalo	Leverkusen	STU	0,8			0		merken;		
+Akono	Mainz	STU	0,6					merken;		
+Ofori	Düsseldorf	STU	0,6					merken;		
+Seydel	Mainz	STU	0,5			0		merken;		
+Reese	Schalke	STU	0,5					merken;		
+Bennetts	Gladbach	STU	0,5			0		merken;		
+Shelton	Paderborn	STU	0,5					merken;		
+Redan	Hertha	STU	0,5					merken;		
+Goller	Bremen	STU	0,3			0		merken;		
+Kiprit	Hertha	STU	0,2			0		merken;		
+Malone	Augsburg	STU	0,2			0		merken;		
+Villalba	Gladbach	STU	0,2			0		merken;		
+Cheon	Augsburg	STU	0,2			0		merken;		
